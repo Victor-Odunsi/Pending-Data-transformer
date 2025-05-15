@@ -19,11 +19,11 @@ def Pending_transformer(filepath, sheet_name = 'Sheet1'):
         'CHOL', 'CKMM', 'CR', 'CKMB', 'POT', 'ELEC', 'ALK', 'UA', 'CPK', 'MAG', 'CRP', 'LDH', 'BILIRUBIN', 'AFP', 'AMYL', 'GLU',
         'GLOBULIN', 'TOT PROT', 'ALB', 'GGT', 'ALDOLASE', 'ALT', 'AST', 'TBIL', 'ANION', 'DBIL', 'TRIG', 'IRON', 'CO2', 'URE', 'GLUCOSE',
         'VIT', 'ANTI-MULLERIAN', 'TESTO', 'T3', 'T4', 'CA153', 'PSA', 'bHCG', 'QHCG', 'E2', 'FOL', 'PROG', 'FSH', 'LH', 'PROL', 'TSH',
-        'THY', 'CA125', 'TRANSF', 'SAT', 'FERR', 'CORT', 'AFP', 'CEA', 'CA19-9'
+        'THY', 'CA125', 'TRANSF', 'SAT', 'FERR', 'CORT', 'CEA', 'CA19-9'
     ]
 
     haem_keys = [
-        'FBC', 'RETIC', 'GENOTYPE', 'BLOOD', 'COOMBS', 'HBAIC', 'ELECT', 'ESR', 'MALARIA', 'RETICULOCYTES', 'APTT', 'PI', 'INR', 'QUANTIFERONE',
+        'FBC', 'RETIC', 'GENOTYPE', 'BLOOD', 'COOMBS', 'HBAIC', 'ESR', 'MALARIA', 'RETICULOCYTES', 'APTT', 'PI', 'INR', 'QUANTIFERONE',
         'Hct', 'HCT', 'TROPONIN', 'TROPO', 'DIMER', 'PLATELETS', 'NORMOBLASTS', 'CKMB', 'MICROFILARIA'
     ]
 
